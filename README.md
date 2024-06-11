@@ -21,6 +21,10 @@ These steps are to build an LLM application with memory using Llama-3 to run loc
    **i)** ***session_state:*** allows you to store and manage state across different user interactions and sessions. This is particularly useful for preserving information like user inputs that needs to persist between reruns of the script. <br/><br/> 
    **ii)** ***chat_message:*** refers to the messages exchanged in a chat-like interface.<br/><br/>
    **iii)** ***markdown:*** is used to format text in the app.<br/><br/>
+
+   **To run the application, use the following command: 'streamlit run local_chatgpt_memory.py'** <br/><br/>
+   ![image](https://github.com/BhanuTeja-007/Local_LLM_App/assets/61819785/6bb2b836-bec8-48dd-88f3-af8b13a76313)
+
    
    
    
